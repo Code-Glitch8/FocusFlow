@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FocusFlow</string>
+    <string name="accessibility_service_label">FocusFlow Shield</string>
+    <string name="accessibility_service_description">Detects blocked apps and YouTube Shorts during active focus sessions without logging keystrokes or personal messages.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_focus">Focus</string>
+    <string name="nav_statistics">Statistics</string>
+    <string name="nav_settings">Settings</string>
+    <string name="workspace_subtitle">Study workspace</string>
+    <string name="notification_channel_timer_name">Focus Timer</string>
+    <string name="notification_channel_timer_desc">Live focus and break countdown during study sessions</string>
+    <string name="notification_action_open">Open FocusFlow</string>
+    <string name="widget_focusflow_description">Displays active Session-in-Progress countdown or starts a configured FocusFlow session with one tap.</string>
+</resources>

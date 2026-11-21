@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow",
+  "description": "Local-first study workspace with focus timer, YouTube & Shorts shield, task planning, AI task suggestions & session summaries, statistics, and LAN sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
